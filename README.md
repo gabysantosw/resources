@@ -11,6 +11,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :black_square_button: Todo - :ballot_box_with_check: Done
 
+[Typography](#typography) -  [Color](#color) - [HTML](#html) - [CSS](#css) - [Javascript](*javascript) - [Web&nbsp;Development](#web-development) [Markdown](#markdown) [REST](#rest) - [Design](#design) - [Blogs](#blogs) - [Git&nbsp;&&nbsp;Github](#git-&-github) - [Collaboration](#collaboration) - [Art](#art) - [Productivity](#Productivity) - [Interviews](#interviews)
+
 ## Typography
 
 [Google Fonts](https://fonts.google.com/)
@@ -80,8 +82,30 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 * :books: :arrow_forward: :black_square_button: [Javascript Foundations](https://www.thegymnasium.com/courses/GYM/104/0/about) - JS ~ 3-6h
 * :books: :arrow_forward: :black_square_button: [Modern Web Design](https://www.thegymnasium.com/courses/GYM/107/0/about) - HTML, CSS, JS ~ 3-6h
 * :books: :arrow_forward: :black_square_button: [Responsive Web Design Fundamentals](https://www.thegymnasium.com/courses/course-v1:GYM+109+0/about) - HTML, CSS, JS ~ 3-6h
-* :books: :arrow_forward: :black_square_button: [Structuring and Organizing HTML5 Forms](https://www.thegymnasium.com/courses/GYM/007/0/about) - HTML ~ 1h
-* :books: :arrow_forward: :black_square_button: [Introduction to Node.js](https://www.thegymnasium.com/courses/course-v1:GYM+012+0/about) - JS ~ 1h
+* :arrow_forward: :black_square_button: [Structuring and Organizing HTML5 Forms](https://www.thegymnasium.com/courses/GYM/007/0/about) - HTML ~ 1h
+* :arrow_forward: :black_square_button: [Introduction to Node.js](https://www.thegymnasium.com/courses/course-v1:GYM+012+0/about) - JS ~ 1h
+
+[App Academy Open](https://open.appacademy.io) - free full stack curriculum, based on videos and interactive exercises
+* :books: :arrow_forward: :black_square_button: Welcome To Coding
+* :books: :arrow_forward: :black_square_button: Intro to Programming
+* :books: :arrow_forward: :black_square_button: Software Engineering Foundations
+* :books: :arrow_forward: :black_square_button: Ruby
+* :books: :arrow_forward: :black_square_button: SQL
+* :books: :arrow_forward: :black_square_button: Rails
+* :books: :arrow_forward: :black_square_button: JavaScript
+* :books: :arrow_forward: :black_square_button: React
+* :books: :arrow_forward: :black_square_button: Full Stack Project
+* :books: :arrow_forward: :black_square_button: Job Search
+* :books: :arrow_forward: :black_square_button: GraphQL
+
+[DevDojo](https://devdojo.com/) - Has paid courses but some free videos, articles and tutorials
+
+[Material Design Developer Tutorials](https://material.io/collections/developer-tutorials/#web) - codelabs
+
+[Alison](https://alison.com/) - Some free courses with certifications but seems to be outdated
+
+[Fullstack Academy](https://www.fullstackacademy.com/bootcamp-prep) - offers paid bootcamps, got the prep for free
+* :books: :arrow_forward: :black_square_button: [Prep Workshop](https://welcome.fullstackacademy.com/#?login)
 
 ## Markdown
 
@@ -112,6 +136,9 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :books: :clipboard: :black_square_button: [Hack Design](https://hackdesign.org/lessons) - Design course with many resources
 
+[Design Code](https://designcode.io/courses) - has mostly paid courses on design and code.
+* :books: :arrow_forward: :black_square_button: [Design System in Figma](https://designcode.io/design-system-in-figma)
+
 ## Blogs
 
 [freeCodeCamp Blog](medium.freecodecamp.org)
@@ -129,6 +156,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
 * :books: :arrow_forward: :black_square_button: [Intro to Git and GitHub](https://www.thegymnasium.com/courses/GYM/006/0/about)
 
+[Gitbook](https://www.gitbook.com/) - free hosting for documentation-like websites from github, good for notes, resources and allows more styling
+
 ## Collaboration
 
 [Chingu](https://chingu.io)
@@ -141,3 +170,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
 * :books: :arrow_forward: :black_square_button: [Defeating busy](https://www.thegymnasium.com/courses/GYM/001/0/about) - learn to plan, manage, etc
+
+## Interviews
+
+[Interview Cake](https://www.interviewcake.com/) - paid guidance for programming interview
+* :email: 7 day email course + weekly programming problem
