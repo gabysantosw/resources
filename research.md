@@ -41,6 +41,8 @@ navigation comes here
 
 - [Getting started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome) - good explanation for JAMstack, Gridsome uses Vue
 
++ [Blog using Vue, Nuxt and Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown)
+
 ---------------------------------------------------
 ### Tutorials
 
@@ -67,14 +69,20 @@ navigation comes here
 
 * [Gatsby blog with Markdown MDX](https://scotch.io/tutorials/building-a-video-blog-with-gatsby-and-markdown-mdx)
 
+- [Serverless JAMstack with FaunaDB Cloud part 1](https://fauna.com/blog/building-a-serverless-jamstack-app-with-faunadb-cloud-part-1) - 23/01/2019
+
 -----------------------------------------------
 ### Static Site Generator
 
 * [Next.js](https://nextjs.org/) - JS with React - Very helpful learn section
 
++ [Nuxt.js](https://nuxtjs.org/) - JS with Vue
+
 - [Eleventy](https://www.11ty.io/) - JS with HTML, Markdown, JS, JS template literals, Nunjucks, Liquid, Handlebars, Mustache, EJS, Haml, Pug - good documentation
 
 - [Hexo](https://hexo.io/) - JS with EJS, Pug, Haml, Swig, Nunjucks, Mustache, Handlebars, Twig, Marko
+
+- [Docusaurus](https://docusaurus.io/) - JS with Markdown
 
 - [Metalsmith](https://metalsmith.io/) - JS with Handlebars and Any JS
 
@@ -93,7 +101,46 @@ navigation comes here
 - [Forestry](https://forestry.io/)
   - Free personal: 3 guests/site, Unlimited sites
 
-+
++ [Netlify CMS](https://www.netlifycms.org/)
+  + With Netlify service
+
+* [Prismic.io](https://prismic.io/pricing)
+  * Free tier: 1 user
+
++ [Directus](https://directus.io)
+  + Free tier: 3 collections, 1k items, 5 users
+
+- [Storyblok](https://www.storyblok.com/)
+  - Free tier: 1 user
+
+* [Squidex](https://squidex.io)
+  * Free starter: 50k API calls /month, 500mb storage, 2 contributors
+
++ [GraphCMS](https://graphcms.com)
+  + Free developer tier: 2 users, 500 records, 1M API operations, 500gb asset traffic, API cdn requests 500k/month, API request 100k/month, assets 5gb, bandwidth 10gb/month, 10k documents
+
+* [Sanity](https://www.sanity.io/)
+  * Free standard: 3 users, 2 datasets, 100 concurent connections
+
+- [Kentico Cloud](https://kenticocloud.com/)
+  - Free starter: 3 users, 5k items, 2 languages
+
++ [Strapi](https://strapi.io/)
+  + OS, self-hosted
+
+- [Cockpit](https://getcockpit.com/)
+  - Self-hosted, headless and API-driven CMS
+
+* [Craft CMS](https://craftcms.com)
+  * Free forever solo tier, doesn't specify
+
++ [TakeShape](https://www.takeshape.io)
+  + Free Developer: 1 user, 1 deploy target, 500 content entries, 1gb bandwidh, 500mb file storage, 10k API requests
+
+- [Superdesk](https://www.superdesk.org/) - only demo
+
+
+
 
 -------------------------------------------------------
 ### Examples
@@ -111,7 +158,70 @@ navigation comes here
 
 - :computer: [MD based Next.js blog](https://github.com/tscanlin/next-blog) - Next.js, Markdown - 01/11/2019
 
+- :computer: [Nuxt Todo App](https://github.com/michaelfriedman/nuxt-todo-app)
+
+- :computer: [Fauna DB Todo with Netlify](https://github.com/fauna/netlify-faunadb-todomvc)
+
+--------------------------------------------------
+### Hosting
+
+* [Zeit Now](https://zeit.co/)
+  * Serverless invocations 1k/day, logs 1k/day, storage 100gb
+
 ------------------------------------------------------
 ### Glossary
 
-__test :__
+__JAMstack:__
+
+__Serverless:__
+
+__CMS:__
+
+__SSG:__
+
+__React:__
+
+__Vue:__
+
+__Markdown:__
+
+__EJS:__
+
+__Pug:__
+
+__Haml:__
+
+__Swig:__
+
+__Nunjucks:__
+
+__Mustache:__
+
+__Handlebars:__
+
+__Twig:__
+
+__Marko:__
+
+__Any JS:__
+
+__MDX:__
+
+__CSV:__
+
+__JSON:__
+
+__Yaml:__
+
+__:__
+
+---------------------------------
+### ????
+
+https://www.ibm.com/cloud/cloudant
+
+hood.ie
+
+??? not sure if its CMS
+- [Fauna DB](https://fauna.com/)
+  - Free tier: 5gb, 100k reads, 50k writes, 50mb/day

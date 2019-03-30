@@ -251,3 +251,12 @@ Namecheap
 [Commerce Layer](https://commercelayer.io/)
 
 [Pilon](https://pilon.io/)
+
+-------------------------------------------------
+## Trends
+
+[Jet Brains](https://www.jetbrains.com/research/devecosystem-2018/)
+
+[Octoverse](https://octoverse.github.com/projects)
+
+[Stackoverflow Trends](https://insights.stackoverflow.com/trends?tags=java%2Cc%2Cc%2B%2B%2Cpython%2Cc%23%2Cvb.net%2Cjavascript%2Cassembly%2Cphp%2Cperl%2Cruby%2Cvb%2Cswift%2Cr%2Cobjective-c)
