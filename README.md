@@ -11,12 +11,14 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :black_square_button: Todo - :ballot_box_with_check: Done
 
-[Typography](#typography) -  [Color](#color) - [HTML](#html) - [CSS](#css) - [Javascript](*javascript) - [Web&nbsp;Development](#web-development) [Markdown](#markdown) [REST](#rest) - [Design](#design) - [Blogs](#blogs) - [Git&nbsp;&&nbsp;Github](#git-&-github) - [Collaboration](#collaboration) - [Art](#art) - [Productivity](#Productivity) - [Interviews](#interviews)
+[Typography](#typography) -  [Color](#color) - [HTML](#html) - [CSS](#css) - [Javascript](*javascript) - [Web&nbsp;Development](#web-development) - [Markdown](#markdown) - [REST](#rest) - [Design](#design) - [Blogs](#blogs) - [Git&nbsp;&&nbsp;Github](#git-&-github) - [Collaboration](#collaboration) - [Art](#art) - [Productivity](#Productivity) - [Interviews](#interviews)
 
+-----------------------------------------------------
 ## Typography
 
 [Google Fonts](https://fonts.google.com/)
 
+-----------------------------------------------------
 ## Color
 
 ### Convert
@@ -49,18 +51,27 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 [Khroma](http://khroma.co/) - AI to explore colors and their combinations with typography, poster, gradient, images. Still in beta
 
+------------------------------------------------
 ## HTML
 
 [HTML Escape](https://www.freeformatter.com/html-escape.html) - outputs escaped html, useful for pasting code, website has other of tools too
 
-## CSS
+[HTML5 UP](https://html5up.net/) - free templates, good for inspiration
 
-### Inspiration:
+-----------------------------------------------------
+## CSS
 
 [Daily CSS Design](https://dailycssdesign.com/) - Amazing illustrations made with CSS
 
 :email: [Daily CSS Images](https://dailycssimages.com) - 50 day CSS challenges, it seems to be discontinued
 
+:video_game: :black_square_button: [Flexbox Zombies](https://flexboxzombies.com/)
+
+[Grid to Flex](https://www.gridtoflex.com/) - practical uses for flexbox and css grid, comparations between them
+
+[Enhancing CSS Layouts: floats, flexbox, grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+
+---------------------------------------------------------
 ## Javascript
 
 :book: :black_square_button: [Javascript Grammar](learningcurve.net) - visual guide by @js`_`tut
@@ -76,6 +87,11 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 * :books: :arrow_forward: :black_square_button: [Getting started with JS for web dev](https://scotch.io/courses/getting-started-with-javascript)  ~5h
 * :books: :clipboard: :black_square_button: [Javascript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
 
+:pushpin: [What are service Workers?](https://www.keycdn.com/blog/service-workers)
+
+:video_game: :black_square_button: [Service Workies](https://serviceworkies.com/)
+
+----------------------------------------------------
 ## Web Development
 
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
@@ -104,19 +120,32 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 [Alison](https://alison.com/) - Some free courses with certifications but seems to be outdated
 
-[Fullstack Academy](https://www.fullstackacademy.com/bootcamp-prep) - offers paid bootcamps, got the prep for free
-* :books: :arrow_forward: :black_square_button: [Prep Workshop](https://welcome.fullstackacademy.com/#?login)
+* [Fullstack Academy](https://www.fullstackacademy.com/bootcamp-prep) - offers paid bootcamps, got the prep for free
+  * :books: :arrow_forward: :black_square_button: [Prep Workshop](https://welcome.fullstackacademy.com/#?login)
 
+- [Google Web](https://developers.google.com/web/)
+  - :books: :black_square_button: [Progressive Web Apps Trainning](https://developers.google.com/web/ilt/pwa/)
+  - :books: :black_square_button: [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
+* [web.dev](https://web.dev/learn) - still in beta
+
+-----------------------------------------------------
+## Code Examples
+[TodoMVC](http://todomvc.com/) - examples for building todo apps in various frameworks, some with database examples too
+
+-------------------------------------------------
 ## Markdown
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 :blush: [Emoji](https://gist.github.com/rxaviers/7360908)
 
+------------------------------------------------------
 ## REST
 
 [Insomnia](https://insomnia.rest/) - OS REST client and APIs debugger
 
+------------------------------------------------------
 ## Design
 
 [Checklist Design](https://www.checklist.design/) - collection of UI/UX best practices
@@ -139,6 +168,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 [Design Code](https://designcode.io/courses) - has mostly paid courses on design and code.
 * :books: :arrow_forward: :black_square_button: [Design System in Figma](https://designcode.io/design-system-in-figma)
 
+-------------------------------------------------------
 ## Blogs
 
 [freeCodeCamp Blog](medium.freecodecamp.org)
@@ -151,6 +181,17 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 [Bugsnag Blog](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) - Various tutorials and guides about web development
 * :pushpin: :black_square_button: [Responsive Typography with REMs Part 1/3](https://blog.bugsnag.com/responsive-typography-with-rems/)
 
+[Smashing Magazine](https://www.smashingmagazine.com/articles/) - Articles on everything web dev and design
+
+[geddski](https://gedd.ski/) - creator of flexbox zombies & other games, articles about css, ui, etc
+
+- [MXD](https://mxb.dev/) - website built with Eleventy, covers css, jamstack, front-end
+  - :pushpin: [Semantic JSX](https://mxb.dev/blog/semantic-jsx/)
+  - :pushpin: [CSS Grid admin dashboard](https://mxb.dev/blog/css-grid-admin-dashboard/)
+  - :pushpin: [CSS skeleton screens](https://mxb.dev/blog/css-skeleton-screens/)
+
+
+-----------------------------------------------------
 ## Git & GitHub
 
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
@@ -158,20 +199,55 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 [Gitbook](https://www.gitbook.com/) - free hosting for documentation-like websites from github, good for notes, resources and allows more styling
 
+---------------------------------------------
+## Testing
+
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+  * [Online testing](https://web.dev/measure)
+------------------------------------------------------
 ## Collaboration
 
 [Chingu](https://chingu.io)
 
+------------------------------------------------------
 ## Art
 
 [Favicon](https://www.favicon.cc/) - to create an .ico file to use as a website's icon
 
+--------------------------------------------------------
 ## Productivity
 
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
 * :books: :arrow_forward: :black_square_button: [Defeating busy](https://www.thegymnasium.com/courses/GYM/001/0/about) - learn to plan, manage, etc
 
+-------------------------------------------------------
 ## Interviews
 
 [Interview Cake](https://www.interviewcake.com/) - paid guidance for programming interview
 * :email: 7 day email course + weekly programming problem
+
+-------------------------------------------------
+## Deployment
+
+[Deployment with Codepen Projects hosting](https://blog.codepen.io/projects/project-deployment/) - free but can't choose domain name with free accounts
+
+----------------------------------------------------
+## Databases
+[Front-end Devs guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+
+--------------------------------------------------
+## Domain
+
+Namecheap
+
+---------------------------------------------------
+## SEO
+
+[Buildvisible](https://builtvisible.com/resources/) - blog and resources about SEO mostly
+
+---------------------------------------------
+## Commerce
+
+[Commerce Layer](https://commercelayer.io/)
+
+[Pilon](https://pilon.io/)
