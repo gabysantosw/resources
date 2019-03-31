@@ -9,6 +9,8 @@ navigation comes here
 
 - [JAMstack.org](https://jamstack.org/)
 
+- [JAMstack WTF](https://jamstack.wtf/)
+
 - [StaticGen](https://www.staticgen.com/) - list of SSG for JAMstack sites
 
 - [HeadlessCMS](https://headlesscms.org/) - list of CMS for JAMstack sites, mostly open source
@@ -29,6 +31,8 @@ navigation comes here
 ------------------------------------------
 ### Blogs
 
+- [JAMSstack with Gatsby, Netlify and Netlify CMS](https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d) - 01/02/2018
+
 * [New to JAMstack?](https://snipcart.com/blog/jamstack) - 16/01/2019
 
 + [Static websites and JAMstack](https://julian.is/article/static-websites-and-jamstack/)
@@ -42,6 +46,8 @@ navigation comes here
 - [Getting started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome) - good explanation for JAMstack, Gridsome uses Vue
 
 + [Blog using Vue, Nuxt and Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown)
+
+* [Sourcing content with Gatsby and Contentful](https://divdev.io/sourcing-gatsby-content/)
 
 ---------------------------------------------------
 ### Tutorials
@@ -68,6 +74,8 @@ navigation comes here
 + [Serverless blog on Codepen](https://blog.codepen.io/2018/01/15/build-serverless-blog-codepen/) - uses Firebase, Codepen Project - 15/01/2018
 
 * [Gatsby blog with Markdown MDX](https://scotch.io/tutorials/building-a-video-blog-with-gatsby-and-markdown-mdx)
+
++ [Getting started with Eleventy](https://dev.to/lauragift21/getting-started-with-eleventy-4ofg)
 
 - [Serverless JAMstack with FaunaDB Cloud part 1](https://fauna.com/blog/building-a-serverless-jamstack-app-with-faunadb-cloud-part-1) - 23/01/2019
 

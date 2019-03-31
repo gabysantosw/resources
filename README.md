@@ -71,6 +71,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 [Enhancing CSS Layouts: floats, flexbox, grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 
+[Getting Sassy with CSS](www.sassshop.com/#/) - slides and exercises
+
 ---------------------------------------------------------
 ## Javascript
 
@@ -93,6 +95,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 ----------------------------------------------------
 ## Web Development
+
+[P1tx JS ready v3.0](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md#tier-0---prep)
 
 [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
 * :books: :arrow_forward: :black_square_button: [Javascript Foundations](https://www.thegymnasium.com/courses/GYM/104/0/about) - JS ~ 3-6h
