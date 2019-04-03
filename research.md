@@ -79,6 +79,10 @@ navigation comes here
 
 - [Serverless JAMstack with FaunaDB Cloud part 1](https://fauna.com/blog/building-a-serverless-jamstack-app-with-faunadb-cloud-part-1) - 23/01/2019
 
+- [Como crear un blog statico con Next y Markdown](https://rmoral.com/article/blog-estatico-con-nextjs-y-markdown)
+
+- [Eleventy essentials](https://andeers.com/2019/03/eleventy-essentials/)
+
 -----------------------------------------------
 ### Static Site Generator
 
@@ -147,8 +151,9 @@ navigation comes here
 
 - [Superdesk](https://www.superdesk.org/) - only demo
 
-
-
+----------------------------------------------------------
+### Deployment
+- [Github Pages, SSG and TravisCI](https://okitavera.me/article/github-pages-static-site-generator-and-travisci/) - to automatically sync content coming from one branch to Eleventy
 
 -------------------------------------------------------
 ### Examples
