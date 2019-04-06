@@ -23,28 +23,36 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 ### :small_blue_diamond: Typography
 
+:heavy_minus_sign: __Learn:__
+
+- :arrow_forward: [Improving web and mobile typography - 5 guidelines](https://www.youtube.com/watch?v=O3fVMm-Ef0Y&feature=share) - by Sketch Together Youtube
+
+- [Beautiful Type](https://beautifulwebtype.com/) - inspiration and font pairings examples
+
+- :pushpin: [The typographic scale](http://spencermortensen.com/articles/typographic-scale/)
+
+:heavy_minus_sign: __Assets:__
+
 - [Google Fonts](https://fonts.google.com/)
 
-- [Beautiful Type](https://beautifulwebtype.com/) - inspiration and font pairings
+:heavy_minus_sign: __Tools:__
 
-- [Modular Scale](https://www.modularscale.com/)
+- :wrench: [Modular Scale](https://www.modularscale.com/)
 
-- [Type-Scale](https://type-scale.com/)
+- :wrench: [Type-Scale](https://type-scale.com/)
 
-- [Layout Grid Calculator](https://www.layoutgridcalculator.com/)
-
-- [Improving web and mobile typography - 5 guidelines](https://www.youtube.com/watch?v=O3fVMm-Ef0Y&feature=share) - by Sketch Together Youtube
+- :wrench: [Layout Grid Calculator](https://www.layoutgridcalculator.com/)
 
 -----------------------------------------------------
 ### :small_blue_diamond: Color
 
-:heavy_minus_sign: __Convert:__
+:heavy_minus_sign: __Converters:__
 
 - [Convert A Color](https://convertacolor.com/) - inputs and outputs a single color in hex, rgb, hsl and cmyk, 900-50 complete palette
 
 :heavy_minus_sign: __Palettes:__
 
--[Color Review](https://color.review/) - test accessibility, contrast
+- [Color Review](https://color.review/) - test accessibility, contrast
 
 - [Accessible Brand Colors](https://abc.useallfive.com/) - test
 
@@ -74,20 +82,20 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Gradient Hunt](https://gradienthunt.com/) - inspiration, interesing colors, copies css in rgba
 
-:heavy_minus_sign: __Interesting:__
+:heavy_minus_sign: __Others:__
 
 - [Khroma](http://khroma.co/) - AI to explore colors and their combinations with typography, poster, gradient, images. Still in beta
 
-- [Cool Backgrounds](https://coolbackgrounds.io/) - Generate backgrounds with effects
+- :wrench: [Cool Backgrounds](https://coolbackgrounds.io/) - Generate backgrounds with effects
 
-- [Blob Maker](https://www.blobmaker.app)
+- :wrench: [Blob Maker](https://www.blobmaker.app)
 
 ------------------------------------------------------
-### :small_blue_diamond: Assets
+### :small_blue_diamond: Media Assets
 
 :heavy_minus_sign: __Icons:__
 
-- [Favicon](https://www.favicon.cc/) - to create an .ico file to use as a website's icon
+- :wrench: [Favicon](https://www.favicon.cc/) - to create an .ico file to use as a website's icon
 
 - [iconmonstr](https://iconmonstr.com/)
 
@@ -100,14 +108,36 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :books: :clipboard: :black_square_button: [Hack Design](https://hackdesign.org/lessons) - Design course with many resources
 
-- [How my design came to live](https://veerle.duoh.com/design/how-the-design-of-my-new-blog-came-to-live) - design process and struggles
+- :pushpin: [How my design came to live](https://veerle.duoh.com/design/how-the-design-of-my-new-blog-came-to-live) - design process and struggles
 
 -------------------------------------------------------
 ### :small_blue_diamond: Web Design/UI/UX
 
-- [10 cheat codes for designing UI](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
+:heavy_minus_sign: __Courses:__
 
-- [Design Systems by Christopher Deane Youtube Playlist](https://www.youtube.com/watch?list=PLuGpMawKEhfaicYZHb4VME-IoLtg8gtew&v=o6OgIkEjaJI)
+* [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
+  * :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about) ~ 3-6h
+  * :books: :arrow_forward: [Information design and visualization fundamentals](https://www.thegymnasium.com/courses/GYM/106/0/about) ~ 3-6h
+  * :books: :arrow_forward: [Writting for web and mobile](https://www.thegymnasium.com/courses/GYM/105/0/about) ~1h
+  * :books: :arrow_forward: [Atomic design and pattern lab](https://www.thegymnasium.com/courses/course-v1:GYM+014+0/about) ~1h
+  * :books: :arrow_forward: [Prototyping for digital products and websites](https://www.thegymnasium.com/courses/course-v1:GYM+015+0/about) ~1h
+
+- [Balsamiq Learn](https://balsamiq.com/learn/courses/) - has UI/UX courses and resources
+  - :books: :clipboard: [Intro to UI Wireframing](https://balsamiq.com/learn/courses/wireframing/)
+  - :books: :arrow_forward: [Psychology of UI Design](https://balsamiq.com/learn/courses/ui-design-psychology/) ~ 3h
+
+* [Design Code](https://designcode.io/courses) - has mostly paid courses on design and code.
+  * :books: :arrow_forward: [Design System in Figma](https://designcode.io/design-system-in-figma)
+
+- :arrow_forward: [Design Systems by Christopher Deane Youtube Playlist](https://www.youtube.com/watch?list=PLuGpMawKEhfaicYZHb4VME-IoLtg8gtew&v=o6OgIkEjaJI)
+
+:heavy_minus_sign: __Books:__
+
+- :book: [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+
+:heavy_minus_sign: __Guides:__
+
+- [Material Design](https://material.io/design/introduction/)
 
 - [Women Made It](https://flawlessapp.io/womenmadeit?ref=prototyprio) - design tools, books, podcasts, blogs made by women
 
@@ -117,7 +147,17 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Ind.id Labs](https://2017.ind.ie/about/) - guides, projects and practices for good and ethical design
 
-- [Is your product designed to be calm?](https://medium.com/@caseorganic/is-your-product-designed-to-be-calm-cdde5039cca5) - desinging unbostrusively and with respect, guidelines to follow
+- :pushpin: [Begginer's Guide to Interaction Design](https://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
+
+- [InVision Ecourses](https://www.invisionapp.com/inside-design/category/ecourses/)
+
+- :video_game: [Method of Action](https://method.ac/) - games to learn design
+
+:heavy_minus_sign: __Articles:__
+
++ :pushpin: [10 cheat codes for designing UI](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
+
+- :pushpin: [Is your product designed to be calm?](https://medium.com/@caseorganic/is-your-product-designed-to-be-calm-cdde5039cca5) - designing unobtrusive and with respect, guidelines to follow
 
 - [Design Ethically](https://www.designethically.com/)
 
@@ -125,65 +165,88 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Dark Patterns](https://darkpatterns.org/) - BAD design examples
 
-* :pushpin: :black_square_button: [Web design crash course](https://medium.freecodecamp.org/a-web-design-crash-course-from-one-non-designer-to-another-a6f8da0e6aa) - by Ali Spittel
+* :pushpin: [Web design crash course](https://medium.freecodecamp.org/a-web-design-crash-course-from-one-non-designer-to-another-a6f8da0e6aa) - by Ali Spittel
 
 - [LearnUI](https://learnui.design/blog/)
-  - :pushpin: :black_square_button: [The HSB Color System](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
-
-+ [Checklist Design](https://www.checklist.design/) - collection of UI/UX best practices
-
-* [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
-  * :books: :arrow_forward: :black_square_button: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about) ~ 3-6h
-  * :books: :arrow_forward: :black_square_button: [Information design and visualization fundamentals](https://www.thegymnasium.com/courses/GYM/106/0/about) ~ 3-6h
-  * :books: :arrow_forward: :black_square_button: [Writting for web and mobile](https://www.thegymnasium.com/courses/GYM/105/0/about) ~1h
-  * :books: :arrow_forward: :black_square_button: [Atomic design and pattern lab](https://www.thegymnasium.com/courses/course-v1:GYM+014+0/about) ~1h
-  * :books: :arrow_forward: :black_square_button: [Prototyping for digital products and websites](https://www.thegymnasium.com/courses/course-v1:GYM+015+0/about) ~1h
-
-- [Balsamiq Learn](https://balsamiq.com/learn/courses/) - has UI/UX courses and resources
-  - :books: :clipboard: :black_square_button: [Intro to UI Wireframing](https://balsamiq.com/learn/courses/wireframing/)
-  - :books: :arrow_forward: :black_square_button: [Psychology of UI Design](https://balsamiq.com/learn/courses/ui-design-psychology/) ~ 3h
+  - :pushpin: [The HSB Color System](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 
 * [Lapa Ninja](https://www.lapa.ninja/) - collection of free design resources, books, inspiration
 
-* [Design Code](https://designcode.io/courses) - has mostly paid courses on design and code.
-  * :books: :arrow_forward: :black_square_button: [Design System in Figma](https://designcode.io/design-system-in-figma)
-
 - [UX Booth](https://www.uxbooth.com/) - articles for everything UX
 
-- :pushpin: :black_square_button: [Begginer's Guide to Interaction Design](https://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
+- [Design Principles](https://principles.design/examples/)
 
-- :book: [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+- [Degreeless Design](https://www.degreeless.design/)
 
 - [Responsive Web Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 
 - [Style Guide](http://styleguides.io/) - resources, examples, tools
 
-- :video_game: [Method of Action](https://method.ac/) - games to learn design
-
 - [Protorypr](https://prototypr.io/v2/) - resources, blog - CONSTANTLY CHECK
+
+- :pushpin: [Creating a UI style guide for better UX](https://www.toptal.com/designers/ui/ui-styleguide-better-ux)
 
 - [Design Systems](https://www.designsystems.com/) - Examples made by figma
 
-- [UI Goodies](https://www.uigoodies.com/) - resources, tools
+- [Good UI](https://goodui.org/)
 
-- [Overflow](https://overflow.io/) - turn your designs into playable user flow diagrams that tell a story
+- [UI Goodies](https://www.uigoodies.com/) - resources, tools
 
 - [Figma Freebies](https://www.figmafreebies.com/)
 
+- [Pattern Lab](https://patternlab.io/resources.html)
+
 - [Learn UX Courses](https://learnux.io/#courses)
 
-- [Design System Manager Learn](https://www.invisionapp.com/design-system-manager/learn) - by InVision
+- [Design System Manager - Learn](https://www.invisionapp.com/design-system-manager/learn) - by InVision
 
 - [Creating atomic components in Figma](https://www.figma.com/blog/creating-atomic-components-in-figma/)
-
-- [InVision Ecourses](https://www.invisionapp.com/inside-design/category/ecourses/)
 
 - [Useful animations for a web UI](https://www.alpower.com/using-animation-for-web-ui)
 
 - [UI Recipes](https://uirecipes.com/)
 
+- [Designspiration](https://www.designspiration.net/)
+
+- [Call to Idea](https://www.calltoidea.com/)
+
+- [Mobile Design Patterns](https://www.mobile-patterns.com/)
+
+:heavy_minus_sign: __Tools:__
+
++ :wrench: [Checklist Design](https://www.checklist.design/) - collection of UI/UX best practices
+
+- :wrench: [Overflow](https://overflow.io/) - turn your designs into playable user flow diagrams that tell a story
+
+- [Codrops](https://tympanus.net/codrops/category/tutorials/)
+
+- [99designs Blog](https://en.99designs.es/blog/)
+
+- [Collect UI](http://collectui.com/)
+
 -----------------------------------------------------
 ## Development
+
+-----------------------------------------------------
+### :small_blue_diamond: General
+
+- [Google Dev Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
+- [One Page Love](https://onepagelove.com/) - inspiration
+
+- [Awwwards](https://www.awwwards.com/) - top websites
+
+- [Jet Brains](https://www.jetbrains.com/research/devecosystem-2018/)
+
+- [Octoverse](https://octoverse.github.com/projects)
+
+- [Stackoverflow Trends](https://insights.stackoverflow.com/trends?tags=java%2Cc%2Cc%2B%2B%2Cpython%2Cc%23%2Cvb.net%2Cjavascript%2Cassembly%2Cphp%2Cperl%2Cruby%2Cvb%2Cswift%2Cr%2Cobjective-c)
+
+- [npm trends](https://www.npmtrends.com/)
+
+- [FFF](http://fff.cmiscm.com/#!/main) - interesting web animations
+
+- [Front-end Checklist](https://frontendchecklist.io/)
 
 -----------------------------------------------------
 ### :small_blue_diamond: Markdown
@@ -195,14 +258,20 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 -----------------------------------------------------
 ### :small_blue_diamond: HTML
 
-- [HTML Escape](https://www.freeformatter.com/html-escape.html) - outputs escaped html, useful for pasting code, website has other of tools too
-
-- [HTML5 UP](https://html5up.net/) - free templates, good for inspiration
+:heavy_minus_sign: __Learn:__
 
 - :arrow_forward: :black_square_button: [Structuring and Organizing HTML5 Forms - The Gymnasium](https://www.thegymnasium.com/courses/GYM/007/0/about) - HTML ~ 1h
 
+:heavy_minus_sign: __Others:__
+
+- :wrench: [HTML Escape](https://www.freeformatter.com/html-escape.html) - outputs escaped html, useful for pasting code, website has other of tools too
+
+- [HTML5 UP](https://html5up.net/) - free templates, good for inspiration
+
 -----------------------------------------------------
 ### :small_blue_diamond: CSS
+
+:heavy_minus_sign: __Learn:__
 
 - [Daily CSS Design](https://dailycssdesign.com/) - Amazing illustrations made with CSS
 
@@ -211,27 +280,39 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - :pushpin: [CSS skeleton screens](https://mxb.dev/blog/css-skeleton-screens/)
 
 * [Bugsnag Blog](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) - Various tutorials and guides about web development
-  * :pushpin: :black_square_button: [Responsive Typography with REMs Part 1/3](https://blog.bugsnag.com/responsive-typography-with-rems/)
+  * :pushpin: [Responsive Typography with REMs Part 1/3](https://blog.bugsnag.com/responsive-typography-with-rems/)
 
 - :pushpin: [Rachel Andrew's Blog](https://rachelandrew.co.uk/archives/) - everything CSS
 
-- [How to create better themes with CSS Variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74)
+- :pushpin: [How to create better themes with CSS Variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74)
 
-- [Custom Property (CSS Variables) controlled fluid type sizing](https://andy-bell.design/wrote/custom-property-controlled-fluid-type-sizing/)
+- :pushpin: [Custom Property (CSS Variables) controlled fluid type sizing](https://andy-bell.design/wrote/custom-property-controlled-fluid-type-sizing/)
 
-- [Experimental layouts with CSS shapes and clip-path](https://css-irl.info/experimental-layouts/)
+- :pushpin: [Experimental layouts with CSS shapes and clip-path](https://css-irl.info/experimental-layouts/)
 
-- [Piccalilli](http://piccalil.li/issues) - email newsletter about UI
+- :email: [Piccalilli](http://piccalil.li/issues) - email newsletter about UI
 
-- [Write better CSS: from hell to heaven, p1](https://blog.theodo.fr/2018/06/write-better-css-part-1/)
+- :pushpin: [Write better CSS: from hell to heaven, p1](https://blog.theodo.fr/2018/06/write-better-css-part-1/)
 
 - :video_game: [CSS Diner](https://flukeout.github.io/) - learn and practice css selectors
 
-- [Generative Art with CSS](https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css)
+- :computer: [Generative Art with CSS](https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css)
+
+- :pushpin: [Snippets by CSS Tricks](https://css-tricks.com/snippets/)
+
+- :video_game: [CSSBattle](https://cssbattle.dev/)
+
+- :video_game: [CSS Surgeon](https://codepip.com/games/css-surgeon/) - COMING SOON
 
 :heavy_minus_sign: __Flexbox & Grid__
 
-- :video_game: :black_square_button: [Flexbox Zombies](https://flexboxzombies.com/)
+- :video_game: [Flexbox Zombies](https://flexboxzombies.com/)
+
+- :video_game: [Flexbox Froggy](http://flexboxfroggy.com/)
+
+- :video_game: [Flexbox Defense](http://www.flexboxdefense.com/)
+
+- :video_game: :black_square_button: [Grid Garden](https://cssgridgarden.com/)
 
 - [Grid to Flex](https://www.gridtoflex.com/) - practical uses for flexbox and css grid, comparations between them
 
@@ -243,37 +324,78 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :pushpin: [CSS Grid admin dashboard](https://mxb.dev/blog/css-grid-admin-dashboard/)
 
-:heavy_minus_sign: __Preprocessors__
+:heavy_minus_sign: __Challenges:__
+
+- :arrow_double_up: [Frontend Mentor](https://www.frontendmentor.io/challenges)
+
+- :arrow_double_up: [Frontloops Markup](https://frontloops.io) - challenges without solutions are free
+
+- :arrow_double_up: [100 Days Of CSS](https://100dayscss.com/)
+
+- :arrow_double_up: [CSS Zen Garden](http://www.csszengarden.com/)
+
+:heavy_minus_sign: __Preprocessors:__
 
 - [Getting Sassy with CSS](www.sassshop.com/#/) - slides and exercises
-
-- :video_game: :black_square_button: [Grid Garden](https://cssgridgarden.com/)
 
 ------------------------------------------------------
 ### :small_blue_diamond: Javascript
 
-- :book: :black_square_button: [Javascript Grammar](learningcurve.net) - visual guide by @js`_`tut
-
-- [Javscript Teacher](https://javascriptteacher.com) - tutorials, guides, videos by @js`_`tut
-
-- [Javascript the Right Way](https://jstherightway.org/) - javascript guide for all levels, tips and good practices
-
-- [JS Hint](https://jshint.com/) - analyses js code for best practices / errors
+:heavy_minus_sign: __Courses:__
 
 * [Scotch](https://scotch.io/) - courses, tutorials, guides, books and blog. free and premium content
-  * :books: :clipboard: :black_square_button: [10 Need to know JS concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts)
-  * :books: :arrow_forward: :black_square_button: [Getting started with JS for web dev](https://scotch.io/courses/getting-started-with-javascript)  ~5h
-  * :books: :clipboard: :black_square_button: [Javascript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+  * :books: :clipboard: [10 Need to know JS concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts)
+  * :books: :arrow_forward: [Getting started with JS for web dev](https://scotch.io/courses/getting-started-with-javascript)  ~5h
+  * :books: :clipboard: [Javascript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+
+  - :books: :arrow_forward: [Javascript Foundations - The Gymnasium](https://www.thegymnasium.com/courses/GYM/104/0/about) - JS ~ 3-6h
+
+:heavy_minus_sign: __Books:__
+
+- :book: [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
+  - :book: [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+  - :book: [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+  - :book: [this & Object Properties](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+  - :book: [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+  - :book: [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+  - :book: [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+
++ :book: [Eloquent Javascript](https://eloquentjavascript.net/)
+
+- :book: [Javascript Grammar](learningcurve.net) - visual guide (release was free)
+
+:heavy_minus_sign: __Tutorials:__
+
+- [The Modern JavaScript Tutorial](http://javascript.info/)
+
+- [JavaScript the Right Way](https://jstherightway.org/) - javascript guide for all levels, tips and good practices
+
+- [JavaScript Teacher](https://javascriptteacher.com) - tutorials, guides, videos
+
+:heavy_minus_sign: __Challenges:__
+
+- :arrow_double_up: [HackerRank](https://www.hackerrank.com)
+  - [10 days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+* :arrow_double_up: [Codewars](https://www.codewars.com/)
+
++ :arrow_double_up: [Edabit](https://edabit.com/)
+
+- :arrow_double_up: [Exercism JavaScript Track](https://exercism.io/tracks/javascript)
+
+:heavy_minus_sign: __Tools:__
+
+- :wrench: [JS Hint](https://jshint.com/) - analyses js code for best practices / errors
+
+:heavy_minus_sign: __Service Workers:__
 
 - :pushpin: [What are service Workers?](https://www.keycdn.com/blog/service-workers)
 
-- :video_game: :black_square_button: [Service Workies](https://serviceworkies.com/)
-
-- :books: :arrow_forward: :black_square_button: [Javascript Foundations - The Gymnasium](https://www.thegymnasium.com/courses/GYM/104/0/about) - JS ~ 3-6h
+- :video_game: [Service Workies](https://serviceworkies.com/)
 
 :heavy_minus_sign: __Node__
 
-- :arrow_forward: :black_square_button: [Introduction to Node.js](https://www.thegymnasium.com/courses/course-v1:GYM+012+0/about) - JS ~ 1h
+- :arrow_forward: [Introduction to Node.js - The Gymnasium](https://www.thegymnasium.com/courses/course-v1:GYM+012+0/about) - JS ~ 1h
 
 :heavy_minus_sign: __React__
 
@@ -287,10 +409,14 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 ---------------------------------------------------------------
 ### :small_blue_diamond: HTML, CSS & JS
 
-- :books: :arrow_forward: :black_square_button: [Modern Web Design - The Gymnasium](https://www.thegymnasium.com/courses/GYM/107/0/about) - HTML, CSS, JS ~ 3-6h
-- :books: :arrow_forward: :black_square_button: [Responsive Web Design Fundamentals - The Gymnasium](https://www.thegymnasium.com/courses/course-v1:GYM+109+0/about) - HTML, CSS, JS ~ 3-6h
+- :books: :arrow_forward: [Modern Web Design - The Gymnasium](https://www.thegymnasium.com/courses/GYM/107/0/about) - HTML, CSS, JS ~ 3-6h
+- :books: :arrow_forward: [Responsive Web Design Fundamentals - The Gymnasium](https://www.thegymnasium.com/courses/course-v1:GYM+109+0/about) - HTML, CSS, JS ~ 3-6h
 
-- [Memory game with plain/vanilla JS, HTML, CSS](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/)
+- :arrow_double_up: [Frontloops Elements](https://frontloops.io) - challenges without solutions are free
+
+- :pushpin: [Memory game with plain/vanilla JS, HTML, CSS](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/)
+
+- [App Ideas](https://github.com/florinpop17/app-ideas)
 
 ----------------------------------------------------
 ### :small_blue_diamond: Code UI
@@ -424,18 +550,6 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 -----------------------------------------------------
 ## Others
------------------------------------------------------
-
-### :small_blue_diamond: Trends
-
-- [Jet Brains](https://www.jetbrains.com/research/devecosystem-2018/)
-
-- [Octoverse](https://octoverse.github.com/projects)
-
-- [Stackoverflow Trends](https://insights.stackoverflow.com/trends?tags=java%2Cc%2Cc%2B%2B%2Cpython%2Cc%23%2Cvb.net%2Cjavascript%2Cassembly%2Cphp%2Cperl%2Cruby%2Cvb%2Cswift%2Cr%2Cobjective-c)
-
-- [npm trends](https://www.npmtrends.com/)
-
 -------------------------------------------------
 ### :small_blue_diamond: Domains
 
