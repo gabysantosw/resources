@@ -106,7 +106,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 -------------------------------------------------------
 ### :small_blue_diamond: General
 
-- :books: :clipboard: :black_square_button: [Hack Design](https://hackdesign.org/lessons) - Design course with many resources
+- :books: :clipboard: [Hack Design](https://hackdesign.org/lessons) - Design course with many resources
 
 - :pushpin: [How my design came to live](https://veerle.duoh.com/design/how-the-design-of-my-new-blog-came-to-live) - design process and struggles
 
@@ -260,7 +260,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :heavy_minus_sign: __Learn:__
 
-- :arrow_forward: :black_square_button: [Structuring and Organizing HTML5 Forms - The Gymnasium](https://www.thegymnasium.com/courses/GYM/007/0/about) - HTML ~ 1h
+- :arrow_forward: [Structuring and Organizing HTML5 Forms - The Gymnasium](https://www.thegymnasium.com/courses/GYM/007/0/about) - HTML ~ 1h
 
 :heavy_minus_sign: __Others:__
 
@@ -312,7 +312,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :video_game: [Flexbox Defense](http://www.flexboxdefense.com/)
 
-- :video_game: :black_square_button: [Grid Garden](https://cssgridgarden.com/)
+- :video_game: [Grid Garden](https://cssgridgarden.com/)
 
 - [Grid to Flex](https://www.gridtoflex.com/) - practical uses for flexbox and css grid, comparations between them
 
@@ -453,17 +453,17 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
 
 * [App Academy Open](https://open.appacademy.io) - free full stack curriculum, based on videos and interactive exercises
-  * :books: :arrow_forward: :black_square_button: Welcome To Coding
-  * :books: :arrow_forward: :black_square_button: Intro to Programming
-  * :books: :arrow_forward: :black_square_button: Software Engineering Foundations
-  * :books: :arrow_forward: :black_square_button: Ruby
-  * :books: :arrow_forward: :black_square_button: SQL
-  * :books: :arrow_forward: :black_square_button: Rails
-  * :books: :arrow_forward: :black_square_button: JavaScript
-  * :books: :arrow_forward: :black_square_button: React
-  * :books: :arrow_forward: :black_square_button: Full Stack Project
-  * :books: :arrow_forward: :black_square_button: Job Search
-  * :books: :arrow_forward: :black_square_button: GraphQL
+  * :books: :arrow_forward: Welcome To Coding
+  * :books: :arrow_forward: Intro to Programming
+  * :books: :arrow_forward: Software Engineering Foundations
+  * :books: :arrow_forward: Ruby
+  * :books: :arrow_forward: SQL
+  * :books: :arrow_forward: Rails
+  * :books: :arrow_forward: JavaScript
+  * :books: :arrow_forward: React
+  * :books: :arrow_forward: Full Stack Project
+  * :books: :arrow_forward: Job Search
+  * :books: :arrow_forward: GraphQL
 
 - [DevDojo](https://devdojo.com/) - Has paid courses but some free videos, articles and tutorials
 
@@ -472,11 +472,11 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [Alison](https://alison.com/) - Some free courses with certifications but seems to be outdated
 
 * [Fullstack Academy](https://www.fullstackacademy.com/bootcamp-prep) - offers paid bootcamps, got the prep for free
-  * :books: :arrow_forward: :black_square_button: [Prep Workshop](https://welcome.fullstackacademy.com/#?login)
+  * :books: :arrow_forward: [Prep Workshop](https://welcome.fullstackacademy.com/#?login)
 
 - [Google Web](https://developers.google.com/web/)
-  - :books: :black_square_button: [Progressive Web Apps Trainning](https://developers.google.com/web/ilt/pwa/)
-  - :books: :black_square_button: [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+  - :books: [Progressive Web Apps Trainning](https://developers.google.com/web/ilt/pwa/)
+  - :books: [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 * [web.dev](https://web.dev/learn) - still in beta
 
@@ -516,7 +516,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 ### :small_blue_diamond: Git & GitHub
 
 * [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
-  * :books: :arrow_forward: :black_square_button: [Intro to Git and GitHub](https://www.thegymnasium.com/courses/GYM/006/0/about)
+  * :books: :arrow_forward: [Intro to Git and GitHub](https://www.thegymnasium.com/courses/GYM/006/0/about)
 
 - [Gitbook](https://www.gitbook.com/) - free hosting for documentation-like websites from github, good for notes, resources and allows more styling
 
@@ -582,7 +582,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 ### :small_blue_diamond: Productivity
 
 * [The Gymnasium](https://www.thegymnasium.com/courses) - Courses about design and development
-  * :books: :arrow_forward: :black_square_button: [Defeating busy](https://www.thegymnasium.com/courses/GYM/001/0/about) - learn to plan, manage, etc
+  * :books: :arrow_forward: [Defeating busy](https://www.thegymnasium.com/courses/GYM/001/0/about) - learn to plan, manage, etc
 
 - [Notist](https://noti.st/) - slide maker
 
