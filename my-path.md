@@ -7,7 +7,7 @@
 
 - :black_square_button: :video_game: [Flexbox Zombies](https://flexboxzombies.com/)
 
-* :black_square_button: :books: :clipboard: [10 Need to know JS concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts)
+
 
 * :black_square_button: :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about) ~ 3-6h
 
@@ -15,7 +15,9 @@
 
 - :black_square_button: :books: :clipboard: [Hack Design](https://hackdesign.org/lessons) - Design course with many resources
 
-* :ballot_box_with_check: :arrow_forward: [Web Design / UI for beginners - Le Wagon](https://www.youtube.com/watch?v=QJ9ygdD2sIY&t=3633s)
+* :ballot_box_with_check: :books: :clipboard: [10 Need to know JS concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts) > :checkered_flag: 05/04/2019 - 11/04/2019
+
+* :ballot_box_with_check: :arrow_forward: [Web Design / UI for beginners - Le Wagon](https://www.youtube.com/watch?v=QJ9ygdD2sIY&t=3633s) >  :checkered_flag: 02/04/2019
 
 * :black_square_button: :books: :clipboard: FCC Responsive Cert -
   * :ballot_box_with_check: Tribute Page
