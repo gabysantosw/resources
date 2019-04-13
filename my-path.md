@@ -19,13 +19,13 @@
 
 * :ballot_box_with_check: :arrow_forward: [Web Design / UI for beginners - Le Wagon](https://www.youtube.com/watch?v=QJ9ygdD2sIY&t=3633s) >  :checkered_flag: 02/04/2019
 
-* :black_square_button: :books: :clipboard: FCC Responsive Cert -
+* :ballot_box_with_check: :books: :clipboard: FCC Responsive Cert > :checkered_flag: 13/04/2019
   * :ballot_box_with_check: Tribute Page
   * :ballot_box_with_check: Landing Page
   * :ballot_box_with_check: Survey Form
   * :ballot_box_with_check: Technical Documentation
-  * :black_square_button: Portfolio
+  * :ballot_box_with_check: Portfolio
 
 - :ballot_box_with_check: :books: :arrow_forward: ZTM before React -
   - :ballot_box_with_check: Landing page with Mailchimp
-  - :black_square_button: Javascript Todo
+  - :ballot_box_with_check: Javascript Todo
