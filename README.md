@@ -312,8 +312,6 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :video_game: [Flexbox Defense](http://www.flexboxdefense.com/)
 
-- :video_game: [Grid Garden](https://cssgridgarden.com/)
-
 - [Grid to Flex](https://www.gridtoflex.com/) - practical uses for flexbox and css grid, comparations between them
 
 - [Grid by Example](https://gridbyexample.com/)
