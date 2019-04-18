@@ -12,7 +12,7 @@
 - :black_square_button: :arrow_double_up: [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
   - :black_square_button: Huddle landing page with alternating feature blocks - lv1
     - ![html] ![css]
-  - :black_square_button: Huddle landing page with single introductory - lv1 section - lv1
+  - :black_square_button: Huddle landing page with single introductory section - lv1 
     - ![html] ![css]
   - :black_square_button: Fylo landing page with two column layout - lv1
     - ![html] ![css]
@@ -40,8 +40,11 @@
 - :black_square_button: :book: [Refactoring UI Book](https://refactoringui.com/book/)
   - ![design] ![css]
 
-+ :black_square_button::video_game: [Grid Garden](https://cssgridgarden.com/)
-  + ![css]
+* :black_square_button: :arrow_forward: [Workshop: Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps&t=20s)
+  * ![css]
+
++ :ballot_box_with_check: :video_game: [Grid Garden](https://cssgridgarden.com/)
+  + ![css] :checkered_flag: `14/04/2019 - 16/04/2019`
 
 * :ballot_box_with_check: :arrow_forward: [Nutrition UI - Build UX](https://www.youtube.com/watch?v=Z8LFbc3zFTE&list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
   * ![html] ![css] ![design]
@@ -53,7 +56,7 @@
 * :ballot_box_with_check: :books: :clipboard: [10 Need to know JS concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts)
   * ![js] :checkered_flag: `05/04/2019 - 11/04/2019`
 
-- :ballot_box_with_check: :arrow_forward: [Web Design / UI for beginners - Le Wagon](https://www.youtube.com/watch?v=QJ9ygdD2sIY&t=3633s)
+- :ballot_box_with_check: :arrow_forward: [Workshop: Web Design / UI for beginners - Le Wagon](https://www.youtube.com/watch?v=QJ9ygdD2sIY&t=3633s)
   - ![design] :checkered_flag: `02/04/2019`
 
 * :ballot_box_with_check: :books: :clipboard: FCC Responsive Cert

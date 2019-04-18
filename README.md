@@ -314,6 +314,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Grid to Flex](https://www.gridtoflex.com/) - practical uses for flexbox and css grid, comparations between them
 
+- [Learn CSS Grid](https://learncssgrid.com/)
+
 - [Grid by Example](https://gridbyexample.com/)
 
 - :pushpin: [Enhancing CSS Layouts: floats, flexbox, grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/) - tutorials, examples, patterns
@@ -335,6 +337,13 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 :heavy_minus_sign: __Preprocessors:__
 
 - [Getting Sassy with CSS](www.sassshop.com/#/) - slides and exercises
+
+------------------------------------------------------
+### :small_blue_diamond: SVG
+
+- [Hero Patterns](http://www.heropatterns.com/)
+
+- [SVG Backgrounds](https://www.svgbackgrounds.com/)
 
 ------------------------------------------------------
 ### :small_blue_diamond: Javascript
