@@ -10,3 +10,5 @@
 - Ora.pm
 
 - Simplenote
+
+- wappalyzer - shows languages, frameworks, etc that a website uses

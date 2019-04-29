@@ -212,6 +212,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Mobile Design Patterns](https://www.mobile-patterns.com/)
 
+- [UX Tricks](https://uxtricks.design/) - blog and some free/paid ebooks
+
 :heavy_minus_sign: __Tools:__
 
 + :wrench: [Checklist Design](https://www.checklist.design/) - collection of UI/UX best practices
@@ -247,6 +249,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [FFF](http://fff.cmiscm.com/#!/main) - interesting web animations
 
 - [Front-end Checklist](https://frontendchecklist.io/)
+
+- [Scrimba](https://scrimba.com/g/glearnreact)
 
 -----------------------------------------------------
 ### :small_blue_diamond: Markdown
@@ -302,7 +306,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :video_game: [CSSBattle](https://cssbattle.dev/)
 
-- :video_game: [CSS Surgeon](https://codepip.com/games/css-surgeon/) - COMING SOON
+- :video_game: [CSS Surgeon](https://codepip.com/games/css-surgeon/) - learning css transformations
 
 :heavy_minus_sign: __Flexbox & Grid__
 
@@ -324,6 +328,10 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :pushpin: [CSS Grid admin dashboard](https://mxb.dev/blog/css-grid-admin-dashboard/)
 
+:heavy_minus_sign: __Animations:__
+
+- [Animate.css](https://daneden.github.io/animate.css/)
+
 :heavy_minus_sign: __Challenges:__
 
 - :arrow_double_up: [Frontend Mentor](https://www.frontendmentor.io/challenges)
@@ -338,12 +346,20 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Getting Sassy with CSS](www.sassshop.com/#/) - slides and exercises
 
+:heavy_minus_sign: __Assets:__
+
+- [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/#starry-night)
+
 ------------------------------------------------------
 ### :small_blue_diamond: SVG
 
 - [Hero Patterns](http://www.heropatterns.com/)
 
 - [SVG Backgrounds](https://www.svgbackgrounds.com/)
+
+- [SVG Minify](https://www.svgminify.com/)
+
+- [Avataaars](https://getavataaars.com/) - svg avatars generator
 
 ------------------------------------------------------
 ### :small_blue_diamond: Javascript
@@ -392,7 +408,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :heavy_minus_sign: __Tools:__
 
-- :wrench: [JS Hint](https://jshint.com/) - analyses js code for best practices / errors
+- :wrench: [JSHint](https://jshint.com/) - analyses js code for best practices / errors
 
 :heavy_minus_sign: __Service Workers:__
 
@@ -404,9 +420,31 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :arrow_forward: [Introduction to Node.js - The Gymnasium](https://www.thegymnasium.com/courses/course-v1:GYM+012+0/about) - JS ~ 1h
 
+:heavy_minus_sign: __Testing__
+
+- [Mocha](https://mochajs.org/)
+
+- [Chai](https://www.chaijs.com/)
+
 :heavy_minus_sign: __React__
 
 - :pushpin: [Semantic JSX](https://mxb.dev/blog/semantic-jsx/)
+
+---------------------------------------------------------------
+### :small_blue_diamond: Regular Expressions
+
+- [RegexOne](https://regexone.com/) - regex interactive tutorial
+
+- [Regexr](https://regexr.com/) - test, visualize, understand regex
+
+- [regex101](https://regex101.com/) - test, visualize, understand regex
+
+- [RegExper](https://regexper.com/) - regex visualization
+
+---------------------------------------------------------------
+### :small_blue_diamond: Code Playgrounds
+
+- [jsbin](https://jsbin.com/)
 
 ---------------------------------------------------------------
 ### :small_blue_diamond: Code Challenges
@@ -505,6 +543,10 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :star: [Webaud.it](https://webaud.it/) - checklist to follow form proper formating, performance, accessibility and security
 
+- [The A11y Project](https://a11yproject.com/)
+
+- [W3C Intro to Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+
 ------------------------------------------------------
 ### :small_blue_diamond: REST
 
@@ -513,11 +555,15 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 ------------------------------------------------------
 ### :small_blue_diamond: Tools
 
-- Webpack
-
 - npm
 
 - [Browsersync](https://browsersync.io/)
+
+:heavy_minus_sign: Build
+
+- [Webpack](https://webpack.js.org/)
+
+- [Brunch](https://brunch.io/)
 
 -----------------------------------------------------
 ### :small_blue_diamond: Git & GitHub
