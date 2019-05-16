@@ -9,9 +9,24 @@
 
 ---
 
+- :black_square_button: :books: :clipboard: [Hack Design](https://hackdesign.org/lessons)
+  - ![design]
+
+* :black_square_button: :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about)
+  * ![design]
+
++ :black_square_button: :book: [Refactoring UI Book](https://refactoringui.com/book/)
+  + ![design] ![css]
+
+* :black_square_button: :arrow_forward: [Workshop: Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps&t=20s)
+  * ![css]
+
++ :black_square_button: :books: :clipboard: [The Modern JavaScript Tutorial](http://javascript.info/)
+  + ![js]
+
 - :black_square_button: :arrow_double_up: [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
-  - :black_square_button: Huddle landing page with alternating feature blocks - lv1
-    - ![html] ![css]
+  - :ballot_box_with_check: Huddle landing page with alternating feature blocks - lv1
+    - ![html] ![css] :checkered_flag: `14/04/2019 - 28/04/2019` ~`8h 55m`
   - :black_square_button: Huddle landing page with single introductory section - lv1
     - ![html] ![css]
   - :black_square_button: Fylo landing page with two column layout - lv1
@@ -25,30 +40,14 @@
   - :black_square_button: REST Countries API with color theme switcher - lv 4 + API
     - ![html] ![css] ![js]
 
-+ :black_square_button: :books: :clipboard: [The Modern JavaScript Tutorial](http://javascript.info/)
-  + ![js]
-
-- :black_square_button: :books: :clipboard: [Hack Design](https://hackdesign.org/lessons)
-  - ![design]
-
-* :black_square_button: :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about)
-  * ![design]
-
-- :black_square_button: :book: [Refactoring UI Book](https://refactoringui.com/book/)
-  - ![design] ![css]
-
-* :black_square_button: :arrow_forward: [Workshop: Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps&t=20s)
-  * ![css]
-
-- :ballot_box_with_check: :arrow_double_up: HackerRank [10 days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
-  - ![js] :checkered_flag: `14/04/2019 - 28/04/2019` ~`10h 19m`
+* :ballot_box_with_check: :arrow_double_up: HackerRank [10 days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+  * ![js] :checkered_flag: `14/04/2019 - 28/04/2019` ~`10h 19m`
 
 + :ballot_box_with_check: :video_game: [Grid Garden](https://cssgridgarden.com/)
   + ![css] :checkered_flag: `14/04/2019 - 16/04/2019` ~ `26m`
 
 * :ballot_box_with_check: :arrow_forward: [Nutrition UI - Build UX](https://www.youtube.com/watch?v=Z8LFbc3zFTE&list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
-  * ![html] ![css] ![design]
-  * :checkered_flag: `04/04/2019 - 15/04/2019` ~`14h`
+  * ![html] ![css] ![design] :checkered_flag: `04/04/2019 - 15/04/2019` ~`14h`
 
 - :ballot_box_with_check: :video_game: [Flexbox Zombies](https://flexboxzombies.com/)
   - ![css] :checkered_flag:`14/04/2019` ~`3h 47m`
