@@ -9,13 +9,10 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 :email: Newsletter / tutorials by email
 
-:black_square_button: Todo - :ballot_box_with_check: Done
-
 - Sections:
   - __[Design](#design) - [Development](#Development) - [Others](#others)__
     - :small_blue_diamond: Subsections
       - :heavy_minus_sign: Specific Topics
-
 
 -----------------------------------------------------
 ## Design
@@ -30,6 +27,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [Beautiful Type](https://beautifulwebtype.com/) - inspiration and font pairings examples
 
 - :pushpin: [The typographic scale](http://spencermortensen.com/articles/typographic-scale/)
+
+- [Font Pair](https://fontpair.co/) - font pairings inspiration from googlefonts
 
 :heavy_minus_sign: __Assets:__
 
@@ -562,6 +561,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 :heavy_minus_sign: Build
 
 - [Webpack](https://webpack.js.org/)
+
+- [Parcel](https://parceljs.org/)
 
 - [Brunch](https://brunch.io/)
 

@@ -6,23 +6,45 @@
 [css]: /assets/css-tag.svg
 [js]: /assets/js-tag.svg
 [design]: /assets/design-tag.svg
+[dev]: /assets/dev-tag.svg
 
 ---
-
 - :black_square_button: :books: :clipboard: [Hack Design](https://hackdesign.org/lessons)
-  - ![design]
+- ![design]
 
 * :black_square_button: :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about)
-  * ![design]
+* ![design]
 
 + :black_square_button: :book: [Refactoring UI Book](https://refactoringui.com/book/)
-  + ![design] ![css]
++ ![design] ![css]
 
 * :black_square_button: :arrow_forward: [Workshop: Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps&t=20s)
-  * ![css]
+* ![css]
 
 + :black_square_button: :books: :clipboard: [The Modern JavaScript Tutorial](http://javascript.info/)
-  + ![js]
++ ![js]
+
++ :black_square_button: :books: :arrow_forward: [Egghead.io](https://egghead.io)
+  + :ballot_box_with_check: Beginners guide to Figma
+    + ![design] :checkered_flag: `26/05/2019` ~`30m`
+  + :ballot_box_with_check: Data Structures and Algorithms in JavaScript
+    + ![js] :checkered_flag: `26/05/2019 - 28/05/2019` ~`3h 33m`
+  + :ballot_box_with_check: Build complex layouts with CSS Grid
+    + ![css] :checkered_flag: `26/05/2019 - 28/05/2019` ~`1h 38m`
+  + :ballot_box_with_check: Learn advanced CSS layout techniques
+    + ![css] :checkered_flag: `28/05/2019` ~`24m`
+  + :ballot_box_with_check: JavaScript Promises in depth
+    + ![js] :checkered_flag: `28/05/2019 - 29/05/2019` ~`1h 31m`
+  + :ballot_box_with_check: Productive Git for developers
+    + ![dev] :checkered_flag: `29/05/2019` ~`45m`
+  + :ballot_box_with_check: Develop a serverless backend using Node.js on AWS Lambda
+    + ![js] :checkered_flag: `29/05/2019 - 30/05/2019` ~`19m`
+  + :ballot_box_with_check: Understand JavaScript's 'this' keyword in depth
+    + ![js] :checkered_flag: `30/05/2019` ~`40m`
+  + :ballot_box_with_check: Start building Accessible Web Applications today
+    + ![html] ![css] :checkered_flag: `29/05/2019 - 30/05/2019` ~`2h 24m`
+  + :ballot_box_with_check: Asynchronous JavaScript with async/await
+    + ![js] :checkered_flag: `31/05/2019` ~`3h 33m`
 
 - :black_square_button: :arrow_double_up: [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
   - :ballot_box_with_check: Huddle landing page with alternating feature blocks - lv1

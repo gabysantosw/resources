@@ -1,5 +1,47 @@
 # Research
 
+https://tympanus.net/codrops/css_reference/flexbox/
+
+## Others
+
+https://ryanstutorials.net/
+
+https://www.education-ecosystem.com/kauress/2QWgj-how-to-code-an-arryful-to-do-list-in-javascript/pYnzr-how-to-code-an-arryful-to-do-list-in-javascript/
+
+https://love2dev.com/blog/
+
+http://www.blooberry.com/indexdot/html/topics/indent.htm
+
+https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
+
+https://www.sarasoueidan.com/blog/svgo-tools/
+
+https://jakearchibald.github.io/svgomg/
+
+---
+
+## Nunjucks
+
+https://css-tricks.com/killer-features-of-nunjucks/
+
+https://zellwk.com/blog/nunjucks-with-gulp/
+
+https://www.hawkart.us/building-a-static-site-with-components-using-nunjucks/
+
+https://www.maniuk.net/2018/01/create-static-html-website-generator-using-nunjucks-and-gulp.html
+
+https://www.michael1e.com/static-site-generator-part-2-templates/
+
+https://www.smashingmagazine.com/2018/03/static-site-with-nunjucks/
+
+---
+
+## Eleventy
+
+https://design.saschadiercks.de/
+
+---
+
 ## JAMstack
 
 navigation comes here
@@ -16,6 +58,8 @@ navigation comes here
 - [HeadlessCMS](https://headlesscms.org/) - list of CMS for JAMstack sites, mostly open source
 
 - [JAMstack Conf](https://jamstackconf.com/nyc/)
+
+https://serverless.css-tricks.com/resources/
 
 -----------------------------------------------
 ### Serverless
