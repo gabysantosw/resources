@@ -540,6 +540,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 --------------------------------------------------------------
 ### :small_blue_diamond: Accessibility
 
+- https://axesslab.com/alt-texts/
+
 - :star: [Webaud.it](https://webaud.it/) - checklist to follow form proper formating, performance, accessibility and security
 
 - [The A11y Project](https://a11yproject.com/)

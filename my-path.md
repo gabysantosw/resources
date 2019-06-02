@@ -7,14 +7,21 @@
 [js]: /assets/js-tag.svg
 [design]: /assets/design-tag.svg
 [dev]: /assets/dev-tag.svg
+[done]: :ballot_box_with_check:
 
 ---
 ## Doing
 
+- :clipboard: Learning [Svelte](https://svelte.dev/)
+  - ![js]
+
++ :clipboard: Learning [Eleventy / 11ty static site generator](https://www.11ty.io/)
+  + ![js] ![dev]
+
 - :black_square_button: :books: :clipboard: [Hack Design](https://hackdesign.org/lessons)
   - ![design]
 
-* :black_square_button: :books: :arrow_forward: [UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about)
+* :black_square_button: :books: :arrow_forward: [The Gymnasium: UX Fundamentals](https://www.thegymnasium.com/courses/GYM/103/0/about)
   * ![design]
 
 + :black_square_button: :book: [Refactoring UI Book](https://refactoringui.com/book/)
@@ -36,6 +43,9 @@
   + ![html] ![css]
 
 ## June 2019
+
+- :ballot_box_with_check: :arrow_forward: [Firebase Firestore Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
+  - ![js] ![dev] :checkered_flag: `01/06/2019 - 02/06/2019` ~`1h 49m`
 
 * :ballot_box_with_check: :arrow_double_up: [Frontend Mentor](https://www.frontendmentor.io/challenges) - Huddle landing page with single introductory section - LV.1
   * ![html] ![css] :checkered_flag: `10/05/2019 - 01/06/2019` ~`6h 7m`
@@ -83,7 +93,7 @@
 + :ballot_box_with_check: :video_game: [Grid Garden](https://cssgridgarden.com/)
   + ![css] :checkered_flag: `14/04/2019 - 16/04/2019` ~ `26m`
 
-* :ballot_box_with_check: :arrow_forward: [Nutrition UI - Build UX](https://www.youtube.com/watch?v=Z8LFbc3zFTE&list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
+* :ballot_box_with_check: :arrow_forward: [Nutrition UI by Build UX](https://www.youtube.com/watch?v=Z8LFbc3zFTE&list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
   * ![html] ![css] ![design] :checkered_flag: `04/04/2019 - 15/04/2019` ~`14h`
 
 - :ballot_box_with_check: :video_game: [Flexbox Zombies](https://flexboxzombies.com/)
