@@ -258,6 +258,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 
+- [Alt-codes](https://www.alt-codes.net/)
+
 -----------------------------------------------------
 ### :small_blue_diamond: HTML
 
@@ -349,6 +351,20 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/#starry-night)
 
+:heavy_minus_sign: __Shapes:__
+
+- :pushpin: [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) -> guide to create multiple shapes with css
+
+- :pushpin: [CSS border radius can do that?](https://www.webdesignerdepot.com/2018/10/css-border-radius-can-do-that/) - to create interesting figures with border radius
+
+:heavy_minus_sign: __Libraries:__
+
+- [tailwindcss](https://tailwindcss.com/)
+
+:heavy_minus_sign: __Articles:__
+
+- :pushpin: [You dont need JavaScript for that](https://thoughtbot.com/blog/you-don-t-need-javascript-for-that)
+
 ------------------------------------------------------
 ### :small_blue_diamond: SVG
 
@@ -429,6 +445,10 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 
 - :pushpin: [Semantic JSX](https://mxb.dev/blog/semantic-jsx/)
 
+:heavy_minus_sign: __Libraries__
+
+- [Marked.js](https://marked.js.org/) -> parser and compiler to handle markdown data and rendering
+
 ---------------------------------------------------------------
 ### :small_blue_diamond: Regular Expressions
 
@@ -439,6 +459,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [regex101](https://regex101.com/) - test, visualize, understand regex
 
 - [RegExper](https://regexper.com/) - regex visualization
+
+- :pushpin: [Converting objects keys from snake_case to camelCase with JavaScript](https://matthiashager.com/converting-snake-case-to-camel-case-object-keys-with-javascript)
 
 ---------------------------------------------------------------
 ### :small_blue_diamond: Code Playgrounds
@@ -540,7 +562,7 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 --------------------------------------------------------------
 ### :small_blue_diamond: Accessibility
 
-- https://axesslab.com/alt-texts/
+- [Alt-texts: The ultimate guide](https://axesslab.com/alt-texts/)
 
 - :star: [Webaud.it](https://webaud.it/) - checklist to follow form proper formating, performance, accessibility and security
 
@@ -565,6 +587,8 @@ Mostly tools but also guides / tutorials / courses, always updating it.
 - [Webpack](https://webpack.js.org/)
 
 - [Parcel](https://parceljs.org/)
+
+- [createapp.dev](https://createapp.dev/) - generates package.json and webpack.config.js for webpack, for parcel it generates the package.json. also generates the other dependencies files (like the .babelrc file)
 
 - [Brunch](https://brunch.io/)
 
